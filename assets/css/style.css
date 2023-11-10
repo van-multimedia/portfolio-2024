@@ -1015,7 +1015,7 @@ section .container {
 }
 
 .icon-media {
-  background: url("assets/icons/digitalprintmedia.png");
+  background: url("../icon/digitalprintmedia.png");
   background-repeat: no-repeat;
   background-size: 100px;
   display: inline-flex;
@@ -1029,7 +1029,7 @@ section .container {
 }
 
 .icon-videdit {
-  background: url("assets/icons/videdit.png");
+  background: url("../icon/videdit.png");
   background-repeat: no-repeat;
   background-size: 100px;
   display: inline-flex;
@@ -1043,7 +1043,7 @@ section .container {
 }
 
 .icon-imgedit {
-  background: url("assets/icons/imgedit.png");
+  background: url("../icon/imgedit.png");
   background-repeat: no-repeat;
   background-size: 100px;
   display: inline-flex;
@@ -1057,7 +1057,7 @@ section .container {
 }
 
 .icon-2d {
-  background: url("assets/icons/2d.png");
+  background: url("../icon/2d.png");
   background-repeat: no-repeat;
   background-size: 100px;
   display: inline-flex;
@@ -1071,7 +1071,7 @@ section .container {
 }
 
 .icon-vfx {
-  background: url("assets/icons/vfx.png");
+  background: url("../icon/vfx.png");
   background-repeat: no-repeat;
   background-size: 100px;
   display: inline-flex;
@@ -1085,7 +1085,7 @@ section .container {
 }
 
 .icon-htmlcss {
-  background: url("assets/icons/webapp.png");
+  background: url("../icon/webapp.png");
   background-repeat: no-repeat;
   background-size: 100px;
   display: inline-flex;
@@ -1099,7 +1099,7 @@ section .container {
 }
 
 .icon-projman {
-  background: url("assets/icons/projman.png");
+  background: url("../icon/projman.png");
   background-repeat: no-repeat;
   background-size: 100px;
   display: inline-flex;
@@ -1113,7 +1113,7 @@ section .container {
 }
 
 .icon-socmed {
-  background: url("assets/icons/socmed.png");
+  background: url("../icon/socmed.png");
   background-repeat: no-repeat;
   background-size: 100px;
   display: inline-flex;
@@ -1127,7 +1127,7 @@ section .container {
 }
 
 .icon-techwrite {
-  background: url("assets/icons/techwrite.png");
+  background: url("../icon/techwrite.png");
   background-repeat: no-repeat;
   background-size: 100px;
   display: inline-flex;
@@ -1141,7 +1141,7 @@ section .container {
 }
 
 .icon-pr2 {
-  background: url("assets/icons/pr.png");
+  background: url("../icon/pr.png");
   background-repeat: no-repeat;
   background-size: 100px;
   display: inline-flex;
@@ -1155,7 +1155,7 @@ section .container {
 }
 
 .icon-pr2 {
-  background: url("assets/icons/pr.png");
+  background: url("../icon/pr.png");
   background-repeat: no-repeat;
   background-size: 100px;
   display: inline-flex;
@@ -1169,7 +1169,7 @@ section .container {
 }
 
 .icon-event {
-  background: url("assets/icons/event.png");
+  background: url("../icon/event.png");
   background-repeat: no-repeat;
   background-size: 100px;
   display: inline-flex;
