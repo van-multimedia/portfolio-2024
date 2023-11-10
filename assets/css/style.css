@@ -11,7 +11,7 @@
 --------------------------------------------------------------*/
 @font-face {
   font-family: 'NEOTERIQUE';
-  src: url(assets/font/Neoterique.ttf) format('truetype');
+  src: url("/assets/font/Neoterique.ttf") format('truetype');
 }
 
 
@@ -567,7 +567,7 @@ section .container {
 # Icons
 --------------------------------------------------------------*/
 .icon-psd {
-  background: url("assets/icon/adobe-photoshop.png");
+  background: url("/assets/icon/adobe-photoshop.png");
   background-repeat: no-repeat;
   background-size: 30px;
   width: 30px;
@@ -576,7 +576,7 @@ section .container {
 }
 
 .icon-pr {
-  background: url("assets/icon/premiere.png");
+  background: url("/assets/icon/premiere.png");
   background-repeat: no-repeat;
   background-size: 30px;
   width: 30px;
