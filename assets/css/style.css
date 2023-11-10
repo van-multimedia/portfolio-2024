@@ -567,7 +567,7 @@ section .container {
 # Icons
 --------------------------------------------------------------*/
 .icon-psd {
-  background: url("assets/iconz/psd.png");
+  background: url(/assets/iconz/psd.png);
   background-repeat: no-repeat;
   background-size: 30px;
   width: 30px;
