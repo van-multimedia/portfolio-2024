@@ -567,7 +567,7 @@ section .container {
 # Icons
 --------------------------------------------------------------*/
 .icon-psd {
-  background: url("../iconz/psd.png");
+  background: url("../icon/psd.png");
   background-repeat: no-repeat;
   background-size: 30px;
   width: 30px;
@@ -576,7 +576,7 @@ section .container {
 }
 
 .icon-pr {
-  background: url("/assets/icon/premiere.png");
+  background: url("../icon/premiere.png");
   background-repeat: no-repeat;
   background-size: 30px;
   width: 30px;
@@ -585,7 +585,7 @@ section .container {
 }
 
 .icon-ae {
-  background: url("assets/icon/after-effects.png");
+  background: url("../icon/after-effects.png");
   background-repeat: no-repeat;
   background-size: 30px;
   width: 30px;
@@ -594,7 +594,7 @@ section .container {
 }
 
 .icon-ai {
-  background: url("assets/icon/adobe-illustrator.png");
+  background: url("../icon/adobe-illustrator.png");
   background-repeat: no-repeat;
   background-size: 30px;
   width: 30px;
@@ -603,7 +603,7 @@ section .container {
 }
 
 .icon-lr {
-  background: url("assets/icon/adobe-lightroom.png");
+  background: url("../icon/adobe-lightroom.png");
   background-repeat: no-repeat;
   background-size: 30px;
   width: 30px;
@@ -612,7 +612,7 @@ section .container {
 }
 
 .icon-resolve {
-  background: url("assets/icon/resolve.png");
+  background: url("../icon/resolve.png");
   background-repeat: no-repeat;
   background-size: 30px;
   width: 30px;
@@ -621,7 +621,7 @@ section .container {
 }
 
 .icon-canva {
-  background: url("assets/icon/canva.png");
+  background: url("../icon/canva.png");
   background-repeat: no-repeat;
   background-size: 30px;
   width: 30px;
@@ -630,7 +630,7 @@ section .container {
 }
 
 .icon-html {
-  background: url("assets/icon/htmlcss.png");
+  background: url("../icon/htmlcss.png");
   background-repeat: no-repeat;
   background-size: 30px;
   width: 30px;
@@ -639,7 +639,7 @@ section .container {
 }
 
 .icon-bootstrap {
-  background: url("assets/icon/bootstrap.png");
+  background: url("../icon/bootstrap.png");
   background-repeat: no-repeat;
   background-size: 30px;
   width: 30px;
@@ -648,7 +648,7 @@ section .container {
 }
 
 .icon-wp {
-  background: url("assets/icon/wordpress.png");
+  background: url("../icon/wordpress.png");
   background-repeat: no-repeat;
   background-size: 30px;
   width: 30px;
@@ -657,7 +657,7 @@ section .container {
 }
 
 .icon-google {
-  background: url("assets/icon/google.png");
+  background: url("../icon/google.png");
   background-repeat: no-repeat;
   background-size: 30px;
   width: 30px;
@@ -666,7 +666,7 @@ section .container {
 }
 
 .icon-office {
-  background: url("assets/icon/office.png");
+  background: url("../icon/office.png");
   background-repeat: no-repeat;
   background-size: 30px;
   width: 30px;
@@ -675,7 +675,7 @@ section .container {
 }
 
 .icon-yt {
-  background: url("assets/icon/ytstudio.png");
+  background: url("../icon/ytstudio.png");
   background-repeat: no-repeat;
   background-size: 30px;
   width: 30px;
@@ -684,7 +684,7 @@ section .container {
 }
 
 .icon-meta {
-  background: url("assets/icon/meta.png");
+  background: url("../icon/meta.png");
   background-repeat: no-repeat;
   background-size: 30px;
   width: 30px;
@@ -693,7 +693,7 @@ section .container {
 }
 
 .icon-pin {
-  background: url("assets/icon/pinterest.png");
+  background: url("../icon/pinterest.png");
   background-repeat: no-repeat;
   background-size: 30px;
   width: 30px;
@@ -702,7 +702,7 @@ section .container {
 }
 
 .icon-sem {
-  background: url("assets/icon/semrush.png");
+  background: url("../icon/semrush.png");
   background-repeat: no-repeat;
   background-size: 30px;
   width: 30px;
